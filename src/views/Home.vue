@@ -1,7 +1,7 @@
 <template>
-  <main-view />
+  <welcome-view />
 </template>
 
 <script setup>
-  import MainView from '@/components/Main.vue'
+  import WelcomeView from '@/components/Welcome.vue'
 </script>
