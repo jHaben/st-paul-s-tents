@@ -1,4 +1,5 @@
 <template>
+    <v-sheet color="transparent" height="200" />
     <v-container>
         <rental>
 

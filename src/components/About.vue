@@ -1,6 +1,7 @@
 <template>
     <v-container>
-        <v-sheet color="transparent" height="300" />
+        <v-sheet color="transparent" height="200" />
+
         <v-row class="d-flex">
             <v-col />
             <v-col class="justify-center align-center about" cols="4">
