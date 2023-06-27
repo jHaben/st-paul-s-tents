@@ -13,7 +13,7 @@
       </v-col>
 
     </v-row>
-        <h1 class="text-h2 font-weight-bold">St. Paul's Tents</h1>
+        <h1 class="text-h2 font-weight-bold">St. Paul's Tents and More</h1>
 
       
         <div class="text-body-2 font-weight-light mb-n1">"...we have a building from God, a house not made with hands,

@@ -20,15 +20,15 @@ const routes = [
       },{
         path: 'rentals',
         name: 'Rentals',
-        component: () => import(/* webpackChunkName: "products" */ '@/views/Products.vue'),
+        component: () => import(/* webpackChunkName: "rentals" */ '@/views/Rentals.vue'),
       },{
         path: 'about',
         name: 'About',
-        component: () => import(/* webpackChunkName: "products" */ '@/views/Products.vue'),
+        component: () => import(/* webpackChunkName: "about" */ '@/components/About.vue'),
       },{
         path: 'contact',
         name: 'Contact',
-        component: () => import(/* webpackChunkName: "products" */ '@/views/Products.vue'),
+        component: () => import(/* webpackChunkName: "products" */ '@/views/About.vue'),
       }
     ],
   },
