@@ -8,19 +8,15 @@
           </router-link>
         </v-col>
         <v-col><router-link :to="{ name: 'Products' }">
-            <v-btn  text color="white">Products</v-btn>
+            <v-btn text color="white">Products</v-btn>
           </router-link>
         </v-col>
         <v-col><router-link :to="{ name: 'Rentals' }">
-            <v-btn  text color="white">Rentals</v-btn>
+            <v-btn text color="white">Rentals</v-btn>
           </router-link>
         </v-col>
-        <v-col><router-link :to="{ name: 'About' }">
-            <v-btn  text color="white">About</v-btn>
-          </router-link>
-        </v-col>
-        <v-col><router-link :to="{ name: 'Contact' }">
-            <v-btn  text color="white">Contact</v-btn>
+        <v-col><router-link :to="{ name: 'Info' }">
+            <v-btn text color="white">Info</v-btn>
           </router-link>
         </v-col>
       </v-row>
