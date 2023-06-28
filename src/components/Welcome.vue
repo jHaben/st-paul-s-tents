@@ -3,7 +3,7 @@
 
 
     <v-responsive class="align-center text-center fill-height">
-      <v-row>
+      <v-row class="ma-4">
 
         <v-col class="d-flex justify-center">
         <v-sheet color="white">
